@@ -1,0 +1,5 @@
+dao\UserDAO.class
+utils\DatabaseConnection.class
+controller\AuthController.class
+model\User.class
+com\example\demo\HelloServlet.class
